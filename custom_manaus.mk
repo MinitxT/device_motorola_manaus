@@ -28,3 +28,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceName=manaus \
     BuildDesc="manaus_g_sys-user 15 V1TMS35H.3-45-3-2-4 f3329e-e3b696 release-keys" \
     BuildFingerprint=motorola/manaus_g_sys/manaus:15/V1TMS35H.3-45-3-2-4/f3329e-e3b696:user/release-keys
+* Flags
+WITH_REVANCED := true
+ASCP_MAINTAINER := MinitxTT :)
